@@ -1,0 +1,67 @@
+body{
+    background:url(../Assert/photo-1432821596592-e2c18b78144f.avif)!important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: 100% !important;
+    
+} 
+ #container {
+  
+    max-width: 400px;
+    margin: 25px 15px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: transparent;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    color: white;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #08f45b;
+    border-color: #08f45b;
+    color: #fff !important;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 2rem;
+    border-radius: 0.2rem !important;
+   
+  }
+  
+  #message {
+    margin-top: 20px;
+    font-weight: bold;
+    color: greenyellow;
+    text-align: center;
+    font-size: 25px;
+  }
+  #heading{
+    text-align: center;
+    font-size:larger;
+    color: white;
+    font-weight: 500;
+     
+  }
+label{
+    font-weight: 500;
+    color: white;
+}
